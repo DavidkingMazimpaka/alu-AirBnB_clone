@@ -1,4 +1,4 @@
-# HBnB Clone Project
+# AirBnB Clone Project
 This project is a clone of the popular online accommodation marketplace, Airbnb. 
 
 The project includes a command-line interface (CLI) that allows users to interact with the system using simple commands. The CLI allows users to manage properties, bookings, users, and other aspects of the system.
